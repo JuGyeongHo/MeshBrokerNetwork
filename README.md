@@ -1,8 +1,6 @@
-# MeshBroker Network
+# MeshBroker Network - IoT 실습 기말프로젝트
 
 이 시스템은 Redis Cluster와 Eclipse Mosquitto를 활용하여 distributed Mesh Network로 MQTT broker 시스템을 구축하는 README입니다.
-
-# IoT 실습 기말 과제
 
 참여 인원: 김민석, 주경호, 최윤성
 
