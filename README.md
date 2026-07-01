@@ -2,6 +2,10 @@
 
 이 시스템은 Redis Cluster와 Eclipse Mosquitto를 활용하여 distributed Mesh Network로 MQTT broker 시스템을 구축하는 README입니다.
 
+IoT 실습 기말 과제
+참여 인원: 김민석, 주경호, 최윤성
+목표: IoT 시스템의 문제를 정의하여 해결하기
+
 ## 시스템 아키텍처
 
 이 시스템은 분산형 아키텍처를 채택하여 각 노드가 독립적으로 작동하면서도 상호 연결된 구조를 형성합니다. 시스템의 핵심 구성요소는 다음과 같습니다:
